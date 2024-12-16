@@ -10,7 +10,7 @@ I realized back then that writing code was for me an exciting part of that work.
 Later I decided to change career and realized that I wanted to code for a living. 
 In 2023 I discovered a new passion for web development and took a dedicated course with the company [neue fische](https://www.neuefische.de/en). 
 
-I can now develop web applications, using HTML, CSS, JavaScript and React for the frontend, Node.js for the backend and Next.js for fullstack.
+I can now develop web applications, using **HTML, CSS, JavaScript and React for the frontend, Node.js for the backend and Next.js for fullstack**.
 
 I am excited to start a new  career as a frontend or fullstack web developer! 💯
 
